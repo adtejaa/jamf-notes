@@ -8,22 +8,8 @@ This repository contains step-by-step guides, examples, and reference notes that
 ## 📂 Repository Structure
 
 ### 🔹 [Autopkg](./Autopkg)
-Notes and examples related to AutoPkg usage and recipe creation:
-- Creating custom AutoPkg recipes (direct download, processor overrides, etc.)
-- Integrating AutoPkg with Jamf Pro
-- Best practices for package management automation
-
 ### 🔹 [Git](./Git)
-Git workflows, commands, and best practices I use regularly:
-- Branching strategies (feature branches, PR workflow)
-- Keeping feature branches up to date with `main`
-- Useful Git commands and troubleshooting
-
 ### 🔹 [Terraform](./Terraform)
-Terraform notes specific to Jamf Pro and general infrastructure as code:
-- Using HCL (HashiCorp Configuration Language) correctly
-- Examples of managing Jamf Pro resources with Terraform
-- Tips for GitHub + Terraform workflows
 
 ---
 
