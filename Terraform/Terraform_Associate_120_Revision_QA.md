@@ -385,12 +385,3 @@ Repeated apply causes no change.
 
 Remote backend with locking.
 
-------------------------------------------------------------------------
-
-# FINAL EXAM FILTER
-
-If two answers look correct: Choose the one aligned with: - Declarative
-workflow - State integrity - Configuration-driven changes -
-Reproducibility
-
-Avoid shortcuts and manual approaches.
